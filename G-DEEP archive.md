@@ -138,7 +138,7 @@ Use browser search (Ctrl/Cmd + F) to filter by speaker, topic, or institution.
 | 2024-05-09 | Understanding deep to surface connection via nano and regional processes in the Southeastern Carpathians | Thomas Lange | Eötvös University (Budapest) | Seminar |
 | 2024-04-08 | EGU practice talks | María Ramón; Carolina Rosca; Lisa Eberhard; Manuel Menzel; Muchal Bukala | — | Group session |
 | 2024-03-07 | Quantitative EDX Analysis: An Evaluation of Accuracy, Precision, and Detection Limits | Pol Suñer | IACT-CSIC | Seminar |
-| 2024-01-22 | Exploring fluid-rock interaction in the mantle wedge: a G-DEEP group field trip | Michal Bukala | IACT-CSIC | Field trip |
+| 2024-01-22 | Exploring fluid-rock interaction in the mantle wedge: a G-DEEP group field trip | Michal Bukala | IACT-CSIC | Seminar |
 | 2023-12-19 | Italy Trip | Stephan König; Carolina Rosca; Juan Muñoz; María Ramón; Pol Suñer; L. Samuel Cristobal | IACT-CSIC | Group activity |
 | 2023-11-15 | Boninitic underplating in the oceanic lithosphere | Romain Tilhac | IACT-CSIC | Seminar |
 | 2023-11-07 | How tiny things govern system Earth | Oliver Plümper | Utrech University (The Netherlands) | Seminar |
@@ -152,7 +152,7 @@ Use browser search (Ctrl/Cmd + F) to filter by speaker, topic, or institution.
 | 2023-03-15 | Rethinking antigorite dehydration: microstructural analysis of deformed serpentinites | Lisa Eberhard | — | Seminar |
 | 2023-03-09 | Understanding the geochemical diversity and magmatic processes in ocean floor lavas | Marianne Richter | — | Seminar |
 | 2023-02-23 | Magmatic and hydrothermal processes at Mid-Ocean Ridges: from the ocean floor to the laboratory | Rémi Coltat | — | Seminar |
-| 2023-02-16 | Literature Review Seminar | L. Samuel Cristobal | — | Seminar |
-| 2023-02-09 | Geochemical consequences of the subduction of heterogeneous oceanic crust | Juan Muñoz Alfaro | — | Seminar |
-| 2023-02-02 | A piroxenite’s journey through the mantle | Romain Tilhac | — | Seminar |
-| 2023-01-26 | Presentation and kickoff of the PGG seminars. Overview of what we do in our group and our facilities | Stephan König; José Alberto Padrón-Navarta | — | Group session |
+| 2023-02-16 | Literature Review Seminar | L. Samuel Cristobal | IACT-CSIC | Seminar |
+| 2023-02-09 | Geochemical consequences of the subduction of heterogeneous oceanic crust | Juan Muñoz Alfaro | IACT-CSIC | Seminar |
+| 2023-02-02 | A piroxenite’s journey through the mantle | Romain Tilhac | IACT-CSIC | Seminar |
+| 2023-01-26 | Presentation and kickoff of the PGG seminars. Overview of what we do in our group and our facilities | Stephan König; José Alberto Padrón-Navarta | IACT-CSIC | Group session |
