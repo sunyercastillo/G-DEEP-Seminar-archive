@@ -122,7 +122,7 @@ Use browser search (Ctrl/Cmd + F) to filter by speaker, topic, or institution.
 |---:|---|---|---|---|
 | 2026-01-15 | Determination of the oxidation state of iron in natural peridiotitic and eclogitic garnets by synchroton Moessbauer spectroscopy. | Anja Rosental | IACT-CSIC | Seminar |
 | 2025-09-16 | Se isotopes in carbonate rocks as a potential redox-proxy: Challenges and opportunities | Achim Herrmann | Louisiana State University | Seminar |
-| 2025-06-12 | Importance of self-consistent grain-size evolution during different stages of the Wilson cycle | Jonas Ruh | — | Seminar |
+| 2025-06-12 | Importance of self-consistent grain-size evolution during different stages of the Wilson cycle | Jonas Ruh | Institut de Ciències del Mar (ICM), Barcelona | Seminar |
 | 2025-04-05 | Estudio hidrogeoquímico y mineralógico del tratamiento ecológico de lixiviados de fosfoyesos | Ricardo Millán Becerro | Universidad de Granada | Seminar |
 | 2025-03-29 | Movilidad de metales pesados provenientes de residuos de fundición en la zona no saturada de la Bahía San Antonio, Río Negro | Leonardo Scherger | Universidad Nacional del Sur (Argentina) | Seminar |
 | 2024-11-27 | Composition and Evolution of the Nascent Arc Root Section: A Case Study of Ophiolite in Eastern Junggar, Xinjiang, and Central Tibet. | Qi-Song Luo | China | Seminar |
@@ -148,10 +148,10 @@ Use browser search (Ctrl/Cmd + F) to filter by speaker, topic, or institution.
 | 2023-06-01 | The Game of Science | José María González Jiménez | IACT | Seminar |
 | 2023-05-16 | Rockin' and Rollin': How rocks record deformation at different rates | Jesús Muñoz Montecinos | ETH Zürich | Seminar |
 | 2023-04-20 | A very gentle and short introduction to Python | José Alberto Padrón Navarta | IACT-CSIC | Tutorial |
-| 2023-04-13 | Reacting peridotite with CO₂ and H₂O — from infiltration models to reality | Manuel Menzel | — | Seminar |
-| 2023-03-15 | Rethinking antigorite dehydration: microstructural analysis of deformed serpentinites | Lisa Eberhard | — | Seminar |
-| 2023-03-09 | Understanding the geochemical diversity and magmatic processes in ocean floor lavas | Marianne Richter | — | Seminar |
-| 2023-02-23 | Magmatic and hydrothermal processes at Mid-Ocean Ridges: from the ocean floor to the laboratory | Rémi Coltat | — | Seminar |
+| 2023-04-13 | Reacting peridotite with CO₂ and H₂O — from infiltration models to reality | Manuel Menzel | IACT-CSIC | Seminar |
+| 2023-03-15 | Rethinking antigorite dehydration: microstructural analysis of deformed serpentinites | Lisa Eberhard | Utrecht University | Seminar |
+| 2023-03-09 | Understanding the geochemical diversity and magmatic processes in ocean floor lavas | Marianne Richter | IACT-CSIC | Seminar |
+| 2023-02-23 | Magmatic and hydrothermal processes at Mid-Ocean Ridges: from the ocean floor to the laboratory | Rémi Coltat | IACT-CSIC | Seminar |
 | 2023-02-16 | Literature Review Seminar | L. Samuel Cristobal | IACT-CSIC | Seminar |
 | 2023-02-09 | Geochemical consequences of the subduction of heterogeneous oceanic crust | Juan Muñoz Alfaro | IACT-CSIC | Seminar |
 | 2023-02-02 | A piroxenite’s journey through the mantle | Romain Tilhac | IACT-CSIC | Seminar |
